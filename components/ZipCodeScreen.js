@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, FlatList, View, Text, TouchableHighlight ,ImageBackground} from 'react-native';
 
+
 const availableZipItems = [
     { place: 'Hatyai', code: '90110' },
     { place: 'Trang', code: '92000' },
